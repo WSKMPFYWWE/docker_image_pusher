@@ -9,3 +9,11 @@ nginx:1.25.5
 centos
 whyour/qinglong
 mysql:5.7
+#prometheus及配套插件
+grafana/grafana
+bitnami/prometheus
+bitnami/alertmanager
+bitnami/pushgateway
+1and1internet/blackbox_exporter
+ricardbejarano/mysqld_exporter
+quboleinc/node_exporter
