@@ -7,3 +7,4 @@ xhofe/alist:latest
 hdbjlizhe/autman:latest
 nginx:1.25.5
 centos:7.9
+whyour/qinglong
