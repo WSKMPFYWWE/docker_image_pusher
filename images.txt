@@ -8,3 +8,4 @@ hdbjlizhe/autman:latest
 nginx:1.25.5
 centos
 whyour/qinglong
+mysql:5.7
