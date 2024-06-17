@@ -20,3 +20,4 @@ ricardbejarano/mysqld_exporter
 quboleinc/node_exporter
 jellyfin/jellyfin
 linuxserver/emby
+java
