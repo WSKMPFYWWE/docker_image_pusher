@@ -20,4 +20,5 @@ ricardbejarano/mysqld_exporter
 quboleinc/node_exporter
 jellyfin/jellyfin
 linuxserver/emby
-openjdk-8u111-alpine
+java:6-jdk
+
