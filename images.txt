@@ -6,6 +6,7 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 hdbjlizhe/autman:latest
 nginx:1.25.5
+tomcat
 centos
 whyour/qinglong
 mysql:5.7
