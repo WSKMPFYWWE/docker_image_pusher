@@ -26,3 +26,4 @@ wintsa/sun-panel
 soulteary/flare
 simonszu/homepage
 lissy93/dashy
+ghcr.io/ajnart/homarr
