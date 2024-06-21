@@ -21,11 +21,9 @@ quboleinc/node_exporter
 jellyfin/jellyfin
 linuxserver/emby
 openjdk
-homarr/homarr
 wintsa/sun-panel
 soulteary/flare
 simonszu/homepage
 lissy93/dashy
 ghcr.io/ajnart/homarr
-6053537/portainer-ce  
-ghcr.io/ajnart/homarr
+6053537/portainer-ce
