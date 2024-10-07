@@ -27,4 +27,5 @@ simonszu/homepage
 lissy93/dashy
 ghcr.io/ajnart/homarr
 6053537/portainer-ce
+luomubiji/ntqq
 
